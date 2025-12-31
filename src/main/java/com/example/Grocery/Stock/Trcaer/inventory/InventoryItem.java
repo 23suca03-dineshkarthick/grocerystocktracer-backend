@@ -23,7 +23,7 @@ public class InventoryItem {
     }
 
     public InventoryItem(Long id, String itemName, ItemStatus status) {
-        this.id = id;
+           this.id = id;
         this.itemName = itemName;
         this.status = status;
     }
